@@ -3,7 +3,7 @@
 An associated project with Kvalifik consultancy
 
 # Expo
-```zsh expo``` commands work in native terminal, not in VS Code's terminal
+```expo``` commands work in native terminal, not in VS Code's terminal
 # Prettier
 
 ## Edit formats in package.json
